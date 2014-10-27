@@ -16,4 +16,4 @@ Los principales motivos de la elección de este PaaS son los siguientes:
 
 El legunaje que vamos a utilizar es Python, ya que es soportado por Google App Engine y nos viene muy bien ya que lo estamos viendo en la asignatura de Diseño de Aplicaciones para Internet(DAI), al igual que el framework Django que también lo vemos en DAI.
 
-Y de acuerdo a las especificaciones que __Incho Cordero__ nos mencione, se verán y estudiarán las fases del proyecto y que necesidades tiene a nivel de programación, para que nosotros aportemos las soluciones técnicas.
+Y de acuerdo a las especificaciones que __Incho Cordero__ nos mencione, se verán y estudiarán las fases del proyecto y que necesidades tiene a nivel de programación para que nosotros aportemos las soluciones técnicas. Y además de ir volcando todo el trabajo de nuestro proyecto en github, nosotros también utilizaremos la plataforma __"trello"__, ya que es la plataforma que más utiliza Incho Cordero, donde él creará un espacio de trabajo colaborativo e irá metiendo información sobre los objetivos del proyecto para que vayamos conociendo algo más sobre el tema.
