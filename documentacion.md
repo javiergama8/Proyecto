@@ -16,4 +16,4 @@ Los principales motivos de la elección de este PaaS son los siguientes:
 
 El legunaje que vamos a utilizar es Python, ya que es soportado por Google App Engine y nos viene muy bien ya que lo estamos viendo en la asignatura de Diseño de Aplicaciones para Internet(DAI), al igual que el framework Django que también lo vemos en DAI.
 
-Y de acuerdo a las especificaciones que Incho Cordero nos mencione, se verán y estudiarán las fases del proyecto y que necesidades tiene a nivel de programación, para que nosotros aportemos las soluciones técnicas.
+Y de acuerdo a las especificaciones que __Incho Cordero__ nos mencione, se verán y estudiarán las fases del proyecto y que necesidades tiene a nivel de programación, para que nosotros aportemos las soluciones técnicas.
