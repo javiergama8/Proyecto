@@ -51,7 +51,7 @@ Las ventajas de Openshift son:
 
 Todas estas ventajas están muy bien, pero el principal motivo por el que hemos elegido Openshift, es por la facilidad de instalar WordPress (es una tarea automatizada en Openshift) y de su utilización aquí.
 
-DESPLIEGUE EN OPENSHIFT
+## DESPLIEGUE EN OPENSHIFT ##
 
 Lo primero que tenemos que hacer es registrarnos en Openshift. [Enlace Openshift](https://www.openshift.com/)
 
