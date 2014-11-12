@@ -37,4 +37,41 @@ Todas estas ventajas están muy bien, pero el principal motivo por el que hemos 
 
 DESPLIEGUE EN OPENSHIFT
 
-Lo primero que tenemos que hacer es registrarnos(enlace) en Openshift.
+Lo primero que tenemos que hacer es registrarnos en Openshift. [Enlace Openshift](https://www.openshift.com/)
+
+<img src="https://github.com/javiergama8/Images/blob/master/Proyecto1.png">
+
+<img src="https://github.com/javiergama8/Images/blob/master/Proyecto2.png">
+
+<img src="https://github.com/javiergama8/Images/blob/master/Proyecto3.png">
+
+Una vez que estemos registrados, nos enviarán un mensaje al correo para verificar la cuenta.
+
+<img src="https://github.com/javiergama8/Images/blob/master/Proyecto4.png">
+
+En siguiente lugar, justo después, deberemos aceptar los términos.
+
+<img src="https://github.com/javiergama8/Images/blob/master/Proyecto5.png">
+
+Con esto ya tendremos nuestra cuenta creada, y seguidamente nos loguearemos. A continuación, pasaremos a crear una aplicación.
+
+<img src="https://github.com/javiergama8/Images/blob/master/Proyecto7.png">
+
+Ahora vamos a elegir el tipo de aplicación que queremos instalar, que en nuestro caso es WordPress
+
+<img src="https://github.com/javiergama8/Images/blob/master/Proyecto8.png">
+
+Y seguidamente vamos a configurar nuestra aplicación y a crearla.
+
+<img src="https://github.com/javiergama8/Images/blob/master/Proyecto9.png">
+
+Una vez que se haya creado seguiremos con la configuración como el idioma, el título, el nombre de usuario, etc...
+
+<img src="https://github.com/javiergama8/Images/blob/master/Proyecto10.png">
+
+<img src="https://github.com/javiergama8/Images/blob/master/Proyecto11.png">
+
+Con todo esto ya tendremos lista la instalación de nuestra aplicación en Openshift.
+
+<img src="https://github.com/javiergama8/Images/blob/master/Proyecto12.png">
+
