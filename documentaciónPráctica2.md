@@ -6,8 +6,9 @@ Como podemos recordar  nuestro proyecto trata de recoger datos automáticamente 
 
 En un principio nosotros habíamos decidido utilizar para el proyecto el Pass “Google App Engine” debido a las numerosas ventajas que posee, tal y como comentamos en el pasado hito, pero tras haber estado en contacto con Incho Cordero y haber realizado una larga entrevista con él, hemos decido cambiar nuestra visión sobre el proyecto.
 
-En dicha entrevista Incho nos dió a conocer todas las necesidades del proyecto, y en general se trata de un proyecto grande, donde el principal objetivo es “Scraprear la web”. Y ¿que és “scrapear” la web?
+En dicha entrevista Incho nos dió a conocer todas las necesidades del proyecto, y en general se trata de un proyecto grande, donde el principal objetivo es “Scraprear la web”. 
 
+## Y ¿que és “scrapear” la web? ##
 
 Scrapear la web significa realizar búsquedas determinadas en el buscador y hacer una recolección de los datos que puedan interesar. Se trata de un término muy utilizado y muy importante en el periodismo de datos, ya que es tan grande la cantidad de datos que se quieren extraer de diferentes fuentes que hace que sea muy difícil poder hacerlo eficientemente, y aún mas difícil el poder mostrar estos datos de manera que  su representación sea entendida a la perfección por todos los lectores, porque no es lo mismo ver un tabla con 80000 datos que ver una gráfica donde puedes observar su representación y entenderla.
 
@@ -42,11 +43,11 @@ OpenShift soporta frameworks de aplicaciones web mediante integración con una A
 
 Las ventajas de Openshift son:
 
-Acelera el desarrollo y la entrega: permitiendo que los desarrolladores se centren en lo que más les importa (el código) para agilizar el proceso de desarrollo. Automatice los procesos de TI para facilitar la entrega de servicios de TI.
++ Acelera el desarrollo y la entrega: permitiendo que los desarrolladores se centren en lo que más les importa (el código) para agilizar el proceso de desarrollo. Automatice los procesos de TI para facilitar la entrega de servicios de TI.
 
-Ofrece a los desarrolladores libertad de elección: Permíten utilizar interfaces, lenguajes, frameworks, servicios, nubes, elasticidad e infraestructura que ya conocen y prefieren.
++ Ofrece a los desarrolladores libertad de elección.
 
-Utilizar su infraestructura de manera más eficiente: En los entornos de desarrollo, de prueba y de producción.
+## ¿Por qué hemos elegido Openshift? ##
 
 Todas estas ventajas están muy bien, pero el principal motivo por el que hemos elegido Openshift, es por la facilidad de instalar WordPress (es una tarea automatizada en Openshift) y de su utilización aquí.
 
