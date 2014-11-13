@@ -91,3 +91,10 @@ Con todo esto ya tendremos lista la instalación de nuestra aplicación en Opens
 
 <img src="https://github.com/javiergama8/Images/blob/master/Proyecto12.png">
 
+##Google Drive y Trello##
+
++ *Google Drive* es un servicio de alojamiento de archivos. Cada usuario cuenta con 15 gigabytes de espacio gratuito para almacenar sus archivos, ampliables mediante pago. Es accesible por su página web desde ordenadores y dispone de aplicaciones para iOS y Android que permiten editar documentos y hojas de cálculo.
+
++ *Trello* es un gestor de proyectos que permite el trabajo de forma colaborativa mediante tableros compuestos de columnas con varios estados. Tras registrarte en Trello, en un proceso ciertamente sencillo, tendrás acceso a un número ilimitado de tableros que podrás crear para llevar el desarrollo de tus proyectos.
+
+Utilizamos ambas herramientras para compartir recursos con Incho Cordero, pero además, actualmente, Incho utiliza Google Drive para el Scrapeo de datos, aunque no es nada eficiente la herramienta, así que tendremos que ver la forma de hacerla eficiente o bien buscar otras alternativas que presenten mejores resultados.
