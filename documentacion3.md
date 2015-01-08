@@ -5,7 +5,7 @@ Para este tercer hito en el que se pedia crear un sistema de aislamiento de recu
 A continuación explicamos los pasos que hemos seguido.
 
 
-* Instalación debootstrap
+###Instalación debootstrap
 
 Para instalar debootstrap ejecutamos el siguiente comando:
 ~~~
@@ -32,7 +32,7 @@ Una vez terminada la instalación del sistema, entramos en la jaula usando el co
 sudo chroot /home/jaulas/trusty
 ~~~
 
-![Sin titulo](https://github.com/leocm89/Proyecto/tree/master/imagenes/img1.png)
+![Sin titulo](https://github.com/leocm89/Proyecto/blob/master/imagenes/img1.png)
 
 ###Montar el sistema de ficheros
 
@@ -48,16 +48,18 @@ Configuramos el Locale para evitar que nos dé errores:
 apt-get install language-pack-es
 ~~~
 
-![Sin titulo](https://github.com/leocm89/Proyecto/tree/master/imagenes/img2.png)
+![Sin titulo](https://github.com/leocm89/Proyecto/blob/master/imagenes/img2.png)
 
-###Instalación de herramientas necesarias para nuestra aplicación
-	
-	* python
-	* python-dev 
-	* python build-essential
-	* python-request
-	* python-bs4
-	* nano 
+###Instalación de herramientas
+
+Instalamos las siguientes herramientas necesarias para nuestra aplicación:
+
+* python
+* python-dev 
+* python build-essential
+* python-request
+* python-bs4
+* nano 
 
 Todos los pasos anteriores los hemos automatizado en otro [script](https://github.com/leocm89/Proyecto/tree/master/scripts/herramientas.sh)
 
@@ -69,12 +71,12 @@ Para nuestra aplicación hemos creado 3 [script](https://github.com/javiergama8/
 
 Los ejecutamos y vemos que funcionan correctamente:
 
-![Sin titulo](https://github.com/leocm89/Proyecto/tree/master/imagenes/img3.png)
+![Sin titulo](https://github.com/leocm89/Proyecto/blob/master/imagenes/img3.png)
 
-![Sin titulo](https://github.com/leocm89/Proyecto/tree/master/imagenes/img4.png)
+![Sin titulo](https://github.com/leocm89/Proyecto/blob/master/imagenes/img4.png)
 
-![Sin titulo](https://github.com/leocm89/Proyecto/tree/master/imagenes/img5.png)
+![Sin titulo](https://github.com/leocm89/Proyecto/blob/master/imagenes/img5.png)
 
-![Sin titulo](https://github.com/leocm89/Proyecto/tree/master/imagenes/img6.png)
+![Sin titulo](https://github.com/leocm89/Proyecto/blob/master/imagenes/img6.png)
 
 
