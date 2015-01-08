@@ -13,7 +13,7 @@ apt-get install debootstrap
 ~~~
 
 
-* Creacción de la jaula
+###Creacción de la jaula
 
 Creamos una nueva jaula en el directorio /home/jaulas/trusty/
 
@@ -24,7 +24,8 @@ sudo debootstrap --arch=amd64 trusty /home/jaulas/trusty/ http://archive.ubuntu.
 
 Todos los pasos anteriores los hemos automatizado en un [script](https://github.com/leocm89/Proyecto/tree/master/scripts/debootrstrap.sh)
 
-* Acceso al sistema
+###Acceso al sistema
+
 Una vez terminada la instalación del sistema, entramos en la jaula usando el comando:
 
 ~~~
@@ -33,13 +34,14 @@ sudo chroot /home/jaulas/trusty
 
 ![Sin titulo](https://github.com/leocm89/Proyecto/tree/master/imagenes/img1.png)
 
-* Montar el sistema de ficheros
+###Montar el sistema de ficheros
+
 Montamos el sistema de ficheros /proc para que la máquina funcione correctamente. Para ello ejecutamos:
 ~~~
 mount -t proc proc /proc
 ~~~
 
-* Configuración Locale
+###Configuración Locale
 
 Configuramos el Locale para evitar que nos dé errores:
 ~~~
@@ -48,7 +50,7 @@ apt-get install language-pack-es
 
 ![Sin titulo](https://github.com/leocm89/Proyecto/tree/master/imagenes/img2.png)
 
-* Instalación de herramientas necesarias para nuestra aplicación
+###Instalación de herramientas necesarias para nuestra aplicación
 	
 	* python
 	* python-dev 
@@ -59,8 +61,9 @@ apt-get install language-pack-es
 
 Todos los pasos anteriores los hemos automatizado en otro [script](https://github.com/leocm89/Proyecto/tree/master/scripts/herramientas.sh)
 
+###Probando la aplicación
 
-Una vez instalado las herramientas necesarias probamos la aplicación
+Una vez instalado las herramientas necesarias probamos la aplicación.
 
 Para nuestra aplicación hemos creado 3 [script](https://github.com/javiergama8/Proyecto/wiki/Scripts-de-prueba-para-scrapeo-de-p%C3%A1ginas-deportivas) de prueba para scrapear webs.
 
