@@ -1,8 +1,8 @@
 # Creacción de una jaula con debootstrap
 
-Para este tercer hito en el que se pedia crear un sistema de aislamiento de recursos, nosotros hemos creado una jaula con debootstrap
+Para este tercer hito en el que se pedia crear un sistema de aislamiento de recursos, nosotros hemos creado una jaula con debootstrap.
 
-A continuación explicamos los pasos que hemos seguido.
+A continuación explicaremos los pasos que hemos seguido.
 
 
 ###Instalación debootstrap
